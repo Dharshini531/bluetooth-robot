@@ -26,7 +26,7 @@ Wokwi doesn't support Bluetooth directly. Use Serial Monitor to type commands li
 
 # Bluetooth Controlled Robot
 
-This project simulates a Bluetooth-controlled robot using Arduino Uno, L298N, and DC motors.
+This project simulates a Bluetooth-controlled robot using Arduino Uno, L293D, and DC motors.
 
 🔗 *Tinkercad Simulation*: [Click to View](https://www.tinkercad.com/things/drx29troUjL-bluetooth-controlled-robot)
 
